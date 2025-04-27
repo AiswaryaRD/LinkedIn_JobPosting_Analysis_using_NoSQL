@@ -1,11 +1,5 @@
 # LinkedIn Job Posting Analysis using MongoDB (NoSQL)
 
-## Academic Project:
-Course        : DATA225
-Group Number  : 8
-
-
-
 ## Project Overview
 
 This project leverages MongoDB to analyze LinkedIn job posting data, identifying key job market insights such as trending skills, industries, salary ranges, and geographic demand. The project emphasizes NoSQL data modeling, query efficiency, and performance benchmarking.
