@@ -100,6 +100,7 @@ All MongoDB queries used in this project can be found in the following file:
 
 
 ## Folder Structure
+```
 LinkedIn_JobPostingAnalysis_NoSQL/
 ├── analysis/                # Notebooks and MongoDB queries
 ├── raw_data/                 # Original LinkedIn datasets (ignored)
@@ -107,7 +108,7 @@ LinkedIn_JobPostingAnalysis_NoSQL/
 ├── visuals/                  # Visualizations and dashboards
 ├── README.md                 # Project overview documentation
 ├── .gitignore                # Git ignore rules
-
+```
 ## Contributors:
 Aiswarya Raghavadesikan  | Neha Thakur  | Saumya Varshney  | Shikha Singh  | Venkata Sai Sreelekha Gollu  
 
